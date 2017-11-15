@@ -1,0 +1,24 @@
+{
+  "name": "wxapi-node",
+  "version": "1.0.0",
+  "description": "微信服务端api封装，node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/moke666/wxapi.git"
+  },
+  "keywords": [
+    "WeChat",
+    "node.js",
+    "openid"
+  ],
+  "author": "moke",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/moke666/wxapi/issues"
+  },
+  "homepage": "https://github.com/moke666/wxapi#readme"
+}
